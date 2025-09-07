@@ -1,3 +1,5 @@
+//the is the first file i started with
+
 #include <SFML/Graphics.hpp>
 #include <X11/X.h>
 #include <X11/Xatom.h>
